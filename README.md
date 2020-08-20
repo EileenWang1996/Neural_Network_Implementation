@@ -17,3 +17,5 @@ This allowed me to learn how simple neural networks and backpropagation works. T
 **7th argument:** the SGD momentum term. Set to None if you don't want to use momentum.
 
 Example code that initialises the Neural Network class: 
+
+![Capture](https://user-images.githubusercontent.com/35329219/90732712-d8871480-e30e-11ea-92ba-d84bf44c4492.JPG)
