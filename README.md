@@ -16,7 +16,7 @@ This allowed me to learn how simple neural networks and backpropagation works. T
 
 **7th argument:** the SGD momentum term. Set to None if you don't want to use momentum.
 
-# Example code that initialises the Neural Network class
+# Example code for running the model
 
 ```python
 ### initialise the model 
